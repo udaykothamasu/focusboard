@@ -1,6 +1,9 @@
 # FocusBoard
 
 A responsive task management dashboard built with **React.js** and **Vite** for the MobileFirst frontend assignment.
+## Deployment & Links
+- **Live URL:** https://your-project.vercel.app
+- **GitHub Repository:** https://github.com/udaykothamasu/focusboard
 
 ## Features
 - **Dynamic Overview Statistics:** Real-time Total Tasks, In Progress, Completed, and Completion Rate cards, plus Priority Breakdown bars and Status Overview circular progress rings derived directly from task state.
